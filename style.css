@@ -38,3 +38,6 @@ section{
     background-repeat: no-repeat;
     background-position: right;
 }
+.experience-area{
+    display: flex;
+}
